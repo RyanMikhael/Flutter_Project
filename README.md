@@ -1,16 +1,12 @@
-# mdb
+# Projeto Flutter com integração com api do google maps utilizando arquitetura MVC
 
-A new Flutter project.
+## Funcionalidades
 
-## Getting Started
+- Autenticação do usuário(login, cadastro e recuperação de senha)
+- Registrar localização do usuário através de campos específicos e uso da biblioteca Geolocator
+- Exibir localização dos usuários com Maps
+- Funcionalidade de adicionar, remover e atualizar contatos
 
-This project is a starting point for a Flutter application.
+## Tecnologias utilizadas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter, Sqflite, Geolocator, google_maps_flutter
